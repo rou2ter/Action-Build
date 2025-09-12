@@ -6,7 +6,7 @@ on:
         type: choice
         description: "配置文件"
         required: true
-        default: oneplus_ace5
+        default: oneplus_13t
         options:
           - oneplus_nord_ce4_lite_5g_v
           - oneplus_nord_ce4_v
